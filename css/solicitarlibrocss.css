@@ -1,0 +1,162 @@
+body{
+    background-color: #C5E0B4;
+}
+
+.titulo{
+    margin-top: -22px;
+    margin-left: 15px;
+}
+
+.titulo h2 {
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    font-size: 50px;
+}
+
+nav{
+    padding: 15px;
+    background-color: #B4C7E7;
+    border-radius: 10px;
+    width: 100px;
+    margin-left: 11px;
+}
+
+nav > a{
+    text-decoration: none;
+    font-size: 21px;
+    padding: 20px;
+    font-family: 'Calibri', 'sans-serif';
+    color: rgba(255, 255, 255, 0.933);
+    display: inline-block;
+}
+
+
+.usuario{
+    display: flex;
+    background-color: #B4C7E7;
+    height: 50px;
+    width: 130px;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    left: 86%;
+    top: 3%;
+}
+
+.salida{
+    display: flex;
+    background-color: #B4C7E7;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    top: 3%;
+    left: 96%;
+}
+
+.usuario a{
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    position: absolute;
+    left: 36%;
+}
+.usuario i{
+    font-size: 30px;
+    color: #ffffff;
+    position: absolute;
+    left: 10%;
+
+}
+
+.salida i{
+    font-size: 30px;
+    color: #ffffff;
+    position: absolute;
+    left: 10%;
+}
+
+.barra{
+    border: 0px;
+    border-radius: 10px;
+    height: 30px;
+    width: 340px;
+    font-family: 'Calibri', 'sans-serif';
+    margin-left: 370px;
+    margin-top: 29px;
+}
+
+.barrad i{
+    color: #ffffff;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.checkss{
+    font-family: 'Calibri', 'sans-serif';
+    color: rgb(126, 123, 123);
+    font-size: 18px;
+    position: absolute;
+    left: 13%;
+    top: 39%;
+}
+
+.titulob{
+    font-family: 'Calibri', 'sans-serif';
+    color: rgb(105, 104, 104);
+    font-size: 22px;
+    margin-top: -28px;
+    margin-left: 20px;
+
+}
+
+
+.tablai{
+    background-color: #B4C7E7;
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    height: 190px;
+    width: 1100px;
+    border-radius: 20px;
+    margin: 60px;
+    margin-left: 10px;
+    margin-bottom: 150px;
+}
+
+.tablacc{
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    height: 160px;
+    margin-left: 1100px;
+    position: absolute;
+    top: 58%;
+    left: 3%;
+}
+
+.numeros{
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    position: absolute;
+    left: 44%;
+    top: 90%;
+    height: 10px;
+    width: 150px;
+}
+
+
+footer{
+    height: 80px;
+    width: 100%;
+    background-color: #B4C7E7;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+footer h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    font-size: 25px;
+}

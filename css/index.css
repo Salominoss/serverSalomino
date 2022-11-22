@@ -1,0 +1,104 @@
+body{
+    background-color: #C5E0B4;
+}
+
+.Titulo{
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 8%;
+    left: 34%;
+}
+
+.blockA{
+    background-color: #B4C7E7;
+    border-radius: 20px;
+    height: 500px;
+    width: 500px;
+    margin: 50px auto;
+}
+
+img{
+    position: relative;
+    top: 16px;
+    height: 90px;
+    left: 400px;
+}
+
+input{
+    font-family: 'Calibri', 'sans-serif';
+    font-size: 17px;
+    border-radius: 2px;
+    height: 35px;
+    border: 0;
+    width: 300px;
+    margin-right: -1000px;
+    margin-left: 130px;
+    margin-bottom: 10px;
+}
+
+
+table{
+    position: absolute;
+    top: 30%;
+    left: 29%;
+}
+
+.botonC{
+    position: absolute;
+    top: 78%;
+    width: 250px;
+    left: -31%;
+    height: 20px;
+}
+
+.ocontraseña{
+    font-family: 'Calibri', 'sans-serif';
+    font-size: 17px;
+    color: #ffffff;
+    position: absolute;
+    top: 47%;
+    left: 39%;
+}
+
+.boton{
+    position: absolute;
+    top: 120%;
+    left: 11%;
+    width: 238px;
+    border-radius: 10px;
+}
+
+.TituloBC{
+    font-size: 16px;
+    color: #b1b1b1;
+    font-family: 'Calibri', 'sans-serif';
+    margin-left: 162px;
+    margin-top: 40px;
+}
+
+.botonee{
+    font-family: 'Calibri', 'sans-serif';
+    background-color: #ffffff;
+    font-size: 17px;
+    position: absolute;
+    top: 124%;
+    left: 71%;
+}
+
+.aunC{
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    position: absolute;
+    top: 76%;
+    left: 40%;
+}
+
+.Registrate{
+    font-family: 'Calibri', 'sans-serif';
+    color: white;
+    position: absolute;
+    top: 76%;
+    left: 52%;
+}

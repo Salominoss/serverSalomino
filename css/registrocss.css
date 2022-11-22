@@ -1,0 +1,102 @@
+body{
+    background-color: #C5E0B4;
+}
+
+.Encabezado{
+    font-family: 'Calibri', 'sans-serif';
+    font-size: 50px;
+    position: absolute;
+    top: -2px;
+    color: white;
+}
+
+img{
+    position: relative;
+    top: 16px;
+    height: 90px;
+    left: 680px;
+}
+
+.blockR{
+    background-color: #B4C7E7;
+    box-shadow: 0 0 8px 0 rgb(255, 255, 255);
+    border-radius: 35px;
+    height: 500px;
+    width: 800px;
+    margin: 50px auto;
+}
+.contenido{
+    justify-content: center;
+}
+
+h1{
+    padding: 20px;
+    padding-top: 40px;
+}
+
+table{
+    position: absolute;
+    top: 26%;
+}
+
+td{
+    padding: 13px;
+    padding-left: 120px;
+    padding-bottom: 10px;
+}
+
+input{
+    font-family: 'Calibri', 'sans-serif';
+    font-size: 17px;
+    border-radius: 2px;
+    height: 35px;
+    border: 0;
+    width: 250px;
+    margin-right: -1000px;
+    margin-left: -90px;
+    margin-bottom: 5px;
+}
+
+.casilla{
+    position: absolute;
+    top: 78%;
+    left: 3%;
+    height: 23px;
+}
+
+.casillaL{
+    font-size: 16px;
+    color: #7F7F7F;
+    font-family: 'Calibri', 'sans-serif';
+    position: absolute;
+    top: 65%;
+    right: 42%;
+}
+
+.baceptar{
+    padding-left: 280px;
+    padding-top: 40px;
+}
+
+.bcancelar{
+    padding-right: 100px;
+    padding-top: 40px;
+}
+
+.iaceptar{
+    width: 90px;
+    position: absolute;
+    bottom: -2%;
+    border-radius: 35px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Calibri', 'sans-serif';
+}
+
+.icancelar{
+    width: 90px;
+    position: absolute;
+    bottom: -2%;
+    border-radius: 35px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Calibri', 'sans-serif';
+}
